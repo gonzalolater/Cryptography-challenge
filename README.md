@@ -1,4 +1,5 @@
 # Calyptus-Gas-Optimisation
+![Calyptus](https://github.com/gonzalolater/Cryptography-challenge/assets/42863568/d5d516e8-9278-4014-9110-e2e24a7ac194)
 # Gas Optimisation Challenges
 June 19, 2023
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
